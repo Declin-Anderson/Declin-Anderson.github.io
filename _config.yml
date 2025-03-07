@@ -22,7 +22,7 @@ repository               : "Declin-Anderson/Declin-Anderson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Declin Anderson"
   pronouns         : "he/him"  
   bio              : "Declin's home for video game development projects and other programming needs"
@@ -64,7 +64,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "Roschkar"
+  steam            : "dragonxarc"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter

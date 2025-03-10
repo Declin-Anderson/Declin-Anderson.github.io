@@ -1,6 +1,7 @@
 ---
 title: "Grave Robber Of London"
 excerpt: "Video Game made in Unity Engine for Capstone Course<br/><img src='/images/500x300.png'>"
+date: 5/15/2022
 collection: publications
 ---
 

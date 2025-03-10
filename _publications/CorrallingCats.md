@@ -1,7 +1,7 @@
 ---
 title: "Corralling Cats"
 excerpt: "Mobile Game made in the Unity Engine<br/><img src='/images/500x300.png'>"
-date: 2/10/2024
+date: 2024-02-10
 collection: publications
 ---
 

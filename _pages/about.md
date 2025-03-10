@@ -14,7 +14,7 @@ My major was Computer Science with a concentration on Game Design and Developmen
 I'm currently working for start up that I helped found called Totally Not a Bunch of Cats LLC where we produce video games with currently one released mobile game and another on the way. Aiming to work on a computer game after our next release.
 
 I interested in all things video games with a history of front-end design and development but I love learning every aspect of game design and development and love to share my experience and work with everyone!
-======
+
 # Selected Experience
 
 ## Front-end Design and Development

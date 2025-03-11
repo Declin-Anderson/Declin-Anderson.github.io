@@ -5,7 +5,7 @@ date: 2022-05-14
 collection: publications
 ---
 
-![Grave Robber of London Poster](/images/Game%20Releases/GraveRobbingPoster.png){width = 324px height = 424px}
+![Grave Robber of London Poster](/images/Game%20Releases/GraveRobbingPoster.png){:width = 324px height = 424px}
 Grave Robber of London was my first full game launch that I made in Unity! Grave Robber of London is about a Resurrectionist in Pre-Victorian London that out of spite of their Master shunning them, decides to become the best graverobber alive by stealing the Queen's corpse from her royal tomb! You reach the point of raiding the tomb by sneaking around graveyards, avoiding the guards and traps laid, then selling the bodies collected to upgrade your tools and eventually paying for the secret way to the tomb.
 
 Made as a team of 15, 6 programmers, 5 artist, and 4 sound designers from Berklee College of Music that provide the sound effects and music. I was a programmer for the project as well as I storyboarded our game and managed the scope so that we didn't focus on features that weren't necessary for the game.

@@ -9,11 +9,11 @@ redirect_from:
 
 I'm a graduate from University of Wisconsin - Stout!
 
-My major was Computer Science with a concentration on Game Design and Development and I have a minor in Mathematics.
+🕹️My major was Computer Science with a concentration on Game Design and Development and I have a minor in Mathematics.
 
-I'm currently working for start up that I helped found called Totally Not a Bunch of Cats LLC where we produce video games with currently one released mobile game and another on the way. Aiming to work on a computer game after our next release.
+👾I'm currently working for start up that I helped found called Totally Not a Bunch of Cats LLC where we produce video games with currently one released mobile game and another on the way. Aiming to work on a computer game after our next release.
 
-I'm interested in all things video games with a history of front-end design and development, but I love learning every aspect of game design and development and love to share my experience and work with everyone!
+🎮I'm interested in all things video games with a history of front-end design and development, but I love learning every aspect of game design and development and love to share my experience and work with everyone!
 
 # Selected Experience
 
@@ -23,7 +23,7 @@ My experience with Front-end Design and Development started with [Oddities and C
 
 My first major experience was with [Grave Robber of London](https://g4974.gitlab.io/graverobberatlarge/), a project made in Unity as a team of 15 in 10 months for my capstone course, where I coordinated with our artists to layout the menu design then build the backend of our menus and inventory system!
 
-This all coalesced to my most recent experience [Corralling Cats](https://play.google.com/store/apps/details?id=com.TotallyNotaBunchofCats.HerdingCats&hl=en_US), my first project with Totally Not a Bunch of Cats LLC, where I got bring my history of Front-end development to my first mobile release!
+🚀This all coalesced to my most recent experience [Corralling Cats](https://play.google.com/store/apps/details?id=com.TotallyNotaBunchofCats.HerdingCats&hl=en_US), my first project with Totally Not a Bunch of Cats LLC, where I got bring my history of Front-end development to my first mobile release!
 
 ## Post College Learning journey
 

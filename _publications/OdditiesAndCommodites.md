@@ -1,6 +1,6 @@
 ---
 title: "Oddities and Commodities"
-excerpt: "Video Game made in Unity Engine for GDD 200<br/><img src='/images/500x300.png'>"
+excerpt: "Video Game made in Unity Engine for GDD 200<br/><img src='/images/Game Releases/CoverImage.png'>"
 date: 2020-12-14
 collection: publications
 ---

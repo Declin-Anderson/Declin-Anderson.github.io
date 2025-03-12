@@ -12,11 +12,11 @@ Made as a team of 15, 6 programmers, 5 artist, and 4 sound designers. Our 4 soun
 
 ![Guard Interaction](/images/Game%20Releases/GuardGL.png#center)
 
-As a programmer, I created the dynamic inventory system that we used to store the corpses so that, it displayed the image of the corpse as well as the the value it and the ability to delete the user wanted to remove a corpse from their inventory. I also set up the camera movement and angle using LERP to create a fluid movement and to make the navigation of the cemeteries user friendly. Lastly, I did the initial designs of the User Interface for the artists to build off of, and later the implementation of the User Interfaces that player would use in navigating their items as well as the shops! 
+As a programmer, I created the dynamic inventory system that we used to store the corpses so that, it displayed the image of the corpse as well as the value it and the ability to delete the user wanted to remove a corpse from their inventory. I also set up the camera movement and angle using LERP to create a fluid movement and to make the navigation of the cemetery’s user friendly. Lastly, I did the initial designs of the User Interface for the artists to build from, and later the implementation of the User Interfaces that player would use in navigating their items as well as the shops! 
 
 ![Mission Select](/images/Game%20Releases/MissionSelectGL.png)
  
-As for the storyboarding I mocked up the general flow of the menus for the game and how the player would navigate between our scenes. I drew visuals for the storyboard to show the team how the User Interface would be setup between scenes and what scenes could lead to which scenes. I also took on the role of scope manager halfway through the project for as our timeline came closer to the deadline we needed to make decisions on what to cut and I was the deciding factor on non-essentials features.
+As for the storyboarding I mocked up the general flow of the menus for the game and how the player would navigate between our scenes. I drew visuals for the storyboard to show the team how the User Interface would be setup between scenes and what scenes could lead to which scenes. I also took on the role of scope manager halfway through the project for as our timeline came closer to the deadline, we needed to make decisions on what to cut and I was the deciding factor on non-essentials features.
 
 ![Sales Screen](/images/Game%20Releases/SalesGL.png)
 

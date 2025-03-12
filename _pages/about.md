@@ -11,7 +11,7 @@ I'm a graduate from University of Wisconsin - Stout!
 
 🕹️My major was Computer Science with a concentration on Game Design and Development and I have a minor in Mathematics.
 
-👾I'm currently working for start up that I helped found called Totally Not a Bunch of Cats LLC where we produce video games with currently one released mobile game and another on the way. Aiming to work on a computer game after our next release.
+👾I'm currently working for startup that I helped found called Totally Not a Bunch of Cats LLC where we produce video games with currently one released mobile game and another on the way. Aiming to work on a computer game after our next release.
 
 🎮I'm interested in all things video games with a history of front-end design and development, but I love learning every aspect of game design and development and love to share my experience and work with everyone!
 
@@ -27,8 +27,9 @@ My first major experience was with [Grave Robber of London](https://g4974.gitlab
 
 ## Post College Learning journey
 
-One of the most important things to me after I finished my education at UW-Stout was to continue my education and learning. In the tech world there is always new things to learn and old practices to prefect, and so I've made sure to continue feeding my ravenous mind new things! One of the biggest help in this has been GameDev.tv which has wonderful tutorials for all Engines used in the Video Game Industry.
+One of the most important things to me after I finished my education at UW-Stout was to continue my education and learning. In the tech world there is always new things to learn and old practices to prefect, and so I've made sure to continue feeding my ravenous mind new things! One of the biggest helps in this has been GameDev.tv which has wonderful tutorials for all Engines used in the Video Game Industry.
 
 While most of my programming journey has been in Unity Engine for video game development, I have also dabbled in learning Godot using GDScript as my language, as well as learning the power of both blueprints in Unreal and C++ scripting.
 
 You can see some of these projects under my Portfolio Tab!
+

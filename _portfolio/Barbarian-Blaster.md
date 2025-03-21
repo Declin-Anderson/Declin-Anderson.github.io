@@ -4,4 +4,4 @@ excerpt: "Tower Defense game made in Godot using GDScript<br/><img src='/images/
 collection: portfolio
 ---
 
-![Game Preview | 324x432](/images/Portfolio/GamePreviewBarbarianBlaster.png){: .align-right}
+![Game Preview | 324x432](/images/Portfolio/GamePreviewBarbarianBlaster.png)
